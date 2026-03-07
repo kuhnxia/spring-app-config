@@ -1,3 +1,0 @@
-rules:
-    - DOMAIN,proxy.cloudapi.top,DIRECT
-    - IP-CIDR,52.26.251.56/22,DIRECT
